@@ -54,22 +54,6 @@ Developed a web portal to manage **insurance policies, users, and premium detail
 
 ---
 
-# 📊 GitHub Stats
-
-![Subin's GitHub stats](https://github-readme-stats.vercel.app/api?username=subinpk8088-pydj\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subinpk8088-pydj\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=subinpk8088-pydj\&theme=tokyonight)
-
----
-
-# 📈 Contribution Graph
-
-[![Subin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subinpk8088-pydj\&theme=tokyo-night)](https://github.com/subinpk8088-pydj)
-
----
-
 # 🌐 Connect With Me
 
 💼 LinkedIn
